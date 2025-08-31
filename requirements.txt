@@ -1,0 +1,8 @@
+streamlit>=0.65.0
+pandas
+langdetect
+Pillow
+psycopg2-binary
+requests
+langid
+transformers
